@@ -1,0 +1,183 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Goku",
+      "description": "Een Saiyan krijger die steeds sterker wordt.",
+      "age": 43,
+      "seen": true,
+      "birthdate": "1984-04-16",
+      "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Feasydrawingguides.com%2Fhow-to-draw-goku%2F&psig=AOvVaw0Sk0OJSKe7ku3RL_-Kaawd&ust=1738678820292000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjExcDZp4sDFQAAAAAdAAAAABAE",
+      "role": "Protagonist",
+      "abilities": ["Kamehameha", "Instant Transmission", "Ultra Instinct"],
+      "anime": {
+        "id": 101,
+        "title": "Dragon Ball Z",
+        "genre": "Action",
+        "episodes": 291,
+        "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fdbz%2Fcomments%2Fydkrwk%2Fwhy_is_shenron_blue_in_the_shows_logos_he_is_blue%2F&psig=AOvVaw2kkF3M1YdGVfaXrE0an_E6&ust=1738679290542000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCs7avbp4sDFQAAAAAdAAAAABAQ"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Naruto Uzumaki",
+      "description": "De zevende Hokage en de Jinchuriki van de Negenstaartige Vos.",
+      "age": 32,
+      "seen": true,
+      "birthdate": "1987-10-10",
+      "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Feasydrawingguides.com%2Fhow-to-draw-naruto%2F&psig=AOvVaw3hlXqhPgS_9tMiLPJ_4zRN&ust=1738678963453000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDs-4Pap4sDFQAAAAAdAAAAABAE",
+      "role": "Protagonist",
+      "abilities": ["Rasengan", "Shadow Clone Jutsu", "Sage Mode"],
+      "anime": {
+        "id": 102,
+        "title": "Naruto",
+        "genre": "Shounen",
+        "episodes": 220,
+        "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ANaruto_logo.svg&psig=AOvVaw3pWFsMSDkEutxBUbpBjt7B&ust=1738679390906000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjWl9Dbp4sDFQAAAAAdAAAAABAE"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Luffy",
+      "description": "De kapitein van de Straw Hat Pirates en een D. drager.",
+      "age": 19,
+      "seen": true,
+      "birthdate": "1999-05-05",
+      "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Feasydrawingguides.com%2Fhow-to-draw-monkey-d-luffy-from-one-piece%2F&psig=AOvVaw2da1izN7EFXujfwZ9r5TCZ&ust=1738679007940000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDhmKDap4sDFQAAAAAdAAAAABAE",
+      "role": "Protagonist",
+      "abilities": ["Gomu Gomu no Mi", "Gear Second", "Gear Fifth"],
+      "anime": {
+        "id": 103,
+        "title": "One Piece",
+        "genre": "Adventure",
+        "episodes": 1000,
+        "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F652247958523457285%2F&psig=AOvVaw14vmLah_upI7hu8O0H3MFj&ust=1738679415896000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCTjNzbp4sDFQAAAAAdAAAAABAE"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Asta",
+      "description": "Een magie-loze strijder met anti-magie krachten.",
+      "age": 18,
+      "seen": true,
+      "birthdate": "2005-10-04",
+      "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteemit.com%2Felegance%2F%40artbyclark%2Fasta-drawing-from-black-clover&psig=AOvVaw03HcDyv1FGObvliBYhFKou&ust=1738679055438000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODhyrLap4sDFQAAAAAdAAAAABAE",
+      "role": "Protagonist",
+      "abilities": ["Anti-Magic", "Demon Form", "Black Divider"],
+      "anime": {
+        "id": 104,
+        "title": "Black Clover",
+        "genre": "Fantasy",
+        "episodes": 170,
+        "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Fgames%2Fblack-clover-quartet-knights%2Fblack-clover-full-gothic-logo&psig=AOvVaw12sh9fAtTCrPCEjo2v_-Lv&ust=1738679445685000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDZm-vbp4sDFQAAAAAdAAAAABAE"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Saitama",
+      "description": "Een held die iedereen met één klap kan verslaan.",
+      "age": 25,
+      "seen": true,
+      "birthdate": "1999-06-15",
+      "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fclassikskoundrel%2Fart%2FAnother-Saitama-Drawing-Colored-714998416&psig=AOvVaw2Vkyp2V3K_anNmALhnfOXV&ust=1738679097198000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCND27cXap4sDFQAAAAAdAAAAABAE",
+      "role": "Protagonist",
+      "abilities": ["One Punch", "Serious Punch", "Speed"],
+      "anime": {
+        "id": 105,
+        "title": "One Punch Man",
+        "genre": "Comedy",
+        "episodes": 24,
+        "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FOnePunchMan%2Fcomments%2F7kyi46%2Fsaitama_minimalist_wallpaper_1920x1080%2F&psig=AOvVaw2VXpIvPwhvjhvisqTAauLo&ust=1738679480352000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNC-qPvbp4sDFQAAAAAdAAAAABAE"
+      },
+ {
+      "id": 6,
+      "name": "Vegeta",
+      "description": "De prins van de Saiyans en een trotse krijger.",
+      "age": 44,
+      "seen": true,
+      "birthdate": "1980-08-14",
+      "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fhowtoanime.com%2FSteps%2FHow-to-Draw-Vegeta-Dragon-Ball-Z-Step-by-Step&psig=AOvVaw0-mbVnKzzFGHek2hBNxyNN&ust=1738678917842000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLC61e_Zp4sDFQAAAAAdAAAAABAE",
+      "role": "Rival",
+      "abilities": ["Final Flash", "Galick Gun", "Ultra Ego"],
+     "anime": {
+        "id": 101,
+        "title": "Dragon Ball Z",
+        "genre": "Action",
+        "episodes": 291,
+        "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fdbz%2Fcomments%2Fydkrwk%2Fwhy_is_shenron_blue_in_the_shows_logos_he_is_blue%2F&psig=AOvVaw2kkF3M1YdGVfaXrE0an_E6&ust=1738679290542000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCs7avbp4sDFQAAAAAdAAAAABAQ"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Sasuke Uchiha",
+      "description": "Een briljante ninja en de laatste van de Uchiha-clan.",
+      "age": 32,
+      "seen": true,
+      "birthdate": "1987-07-23",
+      "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Fnaruto%2Fpage%2Fblog%2Fsasuke-drawing%2Fwo0Z_4bfouJXadEJE1alYzxreP7lVYMDp7&psig=AOvVaw11fNjWRhILJ2KhKBid-38Y&ust=1738679158861000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODmzejap4sDFQAAAAAdAAAAABAE",
+      "role": "Deuteragonist",
+      "abilities": ["Sharingan", "Chidori", "Susanoo"],
+     "anime": {
+        "id": 102,
+        "title": "Naruto",
+        "genre": "Shounen",
+        "episodes": 220,
+        "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ANaruto_logo.svg&psig=AOvVaw3pWFsMSDkEutxBUbpBjt7B&ust=1738679390906000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjWl9Dbp4sDFQAAAAAdAAAAABAE"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Zoro",
+      "description": "Een meesterzwaardvechter en eerste maat van Luffy.",
+      "age": 21,
+      "seen": true,
+      "birthdate": "1997-11-11",
+      "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Feasydrawingguides.com%2Fhow-to-draw-zoro-from-one-piece%2F&psig=AOvVaw0_zuaqAnKjwCiOp1-96dtP&ust=1738679202169000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICSo_Xap4sDFQAAAAAdAAAAABAE",
+      "role": "Swordsman",
+      "abilities": ["Three Sword Style", "Asura", "Haki"],
+        "anime": {
+        "id": 103,
+        "title": "One Piece",
+        "genre": "Adventure",
+        "episodes": 1000,
+        "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F652247958523457285%2F&psig=AOvVaw14vmLah_upI7hu8O0H3MFj&ust=1738679415896000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCTjNzbp4sDFQAAAAAdAAAAABAE"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Gojo Satoru",
+      "description": "De sterkste Jujutsu Sorcerer met ongelofelijke krachten.",
+      "age": 28,
+      "seen": false,
+      "birthdate": "1989-12-07",
+      "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fhowtoanime.com%2FSteps%2FHow-to-draw-Satoru-Gojo&psig=AOvVaw2JNWnKWhypWcdeluj13hnL&ust=1738679222285000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiek__ap4sDFQAAAAAdAAAAABAE",
+      "role": "Mentor",
+      "abilities": ["Limitless", "Infinity", "Hollow Purple"],
+      "anime": {
+        "id": 106,
+        "title": "Jujutsu Kaisen",
+        "genre": "Supernatural",
+        "episodes": 48,
+        "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AJujutsu_Kaisen_logo.png&psig=AOvVaw1aVuMoawuXkMk6f3bFVXWt&ust=1738679614062000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDj3rrcp4sDFQAAAAAdAAAAABAE"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Bakugo Katsuki",
+      "description": "Een explosieve held in opleiding met een temperament.",
+      "age": 17,
+      "seen": true,
+      "birthdate": "2003-04-20",
+      "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Feasydrawingguides.com%2Fhow-to-draw-katsuki-bakugo-from-my-hero-academia%2F&psig=AOvVaw0hhUBJEBHI3VfQxNJgzIdv&ust=1738679244649000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCPpI_bp4sDFQAAAAAdAAAAABAE",
+      "role": "Rival",
+      "abilities": ["Explosion", "AP Shot", "Howitzer Impact"],
+      "anime": {
+        "id": 107,
+        "title": "My Hero Academia",
+        "genre": "Superhero",
+        "episodes": 138,
+        "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fmy-hero-academia-logo%2F&psig=AOvVaw2GxNrHJk2-xOoJyv7B-akT&ust=1738679654140000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIil6czcp4sDFQAAAAAdAAAAABAE"
+      }
+    }
+  ]
+}
