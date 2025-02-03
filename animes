@@ -1,0 +1,53 @@
+{
+  "animes": [
+    {
+     "id": 101,
+        "title": "Dragon Ball Z",
+        "genre": "Action",
+        "episodes": 291,
+        "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fdbz%2Fcomments%2Fydkrwk%2Fwhy_is_shenron_blue_in_the_shows_logos_he_is_blue%2F&psig=AOvVaw2kkF3M1YdGVfaXrE0an_E6&ust=1738679290542000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCs7avbp4sDFQAAAAAdAAAAABAQ"
+    },
+    {
+     "id": 102,
+        "title": "Naruto",
+        "genre": "Shounen",
+        "episodes": 220,
+        "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ANaruto_logo.svg&psig=AOvVaw3pWFsMSDkEutxBUbpBjt7B&ust=1738679390906000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjWl9Dbp4sDFQAAAAAdAAAAABAE"
+    },
+    {
+     "id": 103,
+        "title": "One Piece",
+        "genre": "Adventure",
+        "episodes": 1000,
+        "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F652247958523457285%2F&psig=AOvVaw14vmLah_upI7hu8O0H3MFj&ust=1738679415896000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCTjNzbp4sDFQAAAAAdAAAAABAE"
+    },
+    {
+     "id": 104,
+        "title": "Black Clover",
+        "genre": "Fantasy",
+        "episodes": 170,
+        "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Fgames%2Fblack-clover-quartet-knights%2Fblack-clover-full-gothic-logo&psig=AOvVaw12sh9fAtTCrPCEjo2v_-Lv&ust=1738679445685000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDZm-vbp4sDFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": 105,
+        "title": "One Punch Man",
+        "genre": "Comedy",
+        "episodes": 24,
+        "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FOnePunchMan%2Fcomments%2F7kyi46%2Fsaitama_minimalist_wallpaper_1920x1080%2F&psig=AOvVaw2VXpIvPwhvjhvisqTAauLo&ust=1738679480352000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNC-qPvbp4sDFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": 106,
+        "title": "Jujutsu Kaisen",
+        "genre": "Supernatural",
+        "episodes": 48,
+        "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AJujutsu_Kaisen_logo.png&psig=AOvVaw1aVuMoawuXkMk6f3bFVXWt&ust=1738679614062000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDj3rrcp4sDFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": 107,
+        "title": "My Hero Academia",
+        "genre": "Superhero",
+        "episodes": 138,
+        "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fmy-hero-academia-logo%2F&psig=AOvVaw2GxNrHJk2-xOoJyv7B-akT&ust=1738679654140000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIil6czcp4sDFQAAAAAdAAAAABAE"
+    },
+  ]
+}
