@@ -1,5 +1,5 @@
-{
-  "animes": [
+
+   [
     {
      "id": 101,
         "title": "Dragon Ball Z",
@@ -48,6 +48,6 @@
         "genre": "Superhero",
         "episodes": 138,
         "imageUrl": "https://1000logos.net/wp-content/uploads/2021/11/My-Hero-Academia-Logo-768x432.png"
-    },
-  ]
-}
+   },
+ ]
+
