@@ -1,4 +1,4 @@
-{
+[
     {
       "id": 1,
       "name": "Goku",
@@ -88,8 +88,8 @@
         "episodes": 24,
         "imageUrl": "https://preview.redd.it/tnudfcnasz401.png?width=1080&crop=smart&auto=webp&s=017d2cb877f2e1db8d4e9e6ac16c9db70c9bbd89"
       }
-},
- {
+    },
+    {
       "id": 6,
       "name": "Vegeta",
       "description": "De prins van de Saiyans en een trotse krijger.",
@@ -179,5 +179,5 @@
         "imageUrl": "https://1000logos.net/wp-content/uploads/2021/11/My-Hero-Academia-Logo-768x432.png"
       }
    }
-}
+]
 
